@@ -1,0 +1,31 @@
+{
+  "name": "reactive-part",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huang190/reactive-part.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/huang190/reactive-part/issues"
+  },
+  "homepage": "https://github.com/huang190/reactive-part#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.10.1",
+    "@babel/core": "^7.10.2",
+    "@babel/preset-env": "^7.10.2",
+    "cross-env": "^7.0.2",
+    "jest": "^26.0.1"
+  },
+  "dependencies": {
+    "lodash": "^4.17.15",
+    "shared": "^0.2.0"
+  }
+}
